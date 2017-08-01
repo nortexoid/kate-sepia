@@ -1,6 +1,6 @@
 # kate-sepia
 
-![alt text](https://github.com/nortexoid/kate-sepia/blob/master/Screenshot.jpg)
+![alt text](https://github.com/nortexoid/kate-sepia/blob/master/Screenshot.png)
 
 A sepia color schema for KDE's Kate text editor based slightly on Solarized light, meeting WCAG AA contrast requirements.
 
